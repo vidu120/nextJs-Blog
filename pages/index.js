@@ -27,7 +27,10 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hey There, my name is Vidhan Goyal and I hope you can gain a little
-          info about myself through this staticness
+          info about myself through this staticness.{" "}
+          <small>
+            This is some additional info that i like playing badminton
+          </small>
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
